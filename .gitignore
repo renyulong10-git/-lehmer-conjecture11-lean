@@ -1,0 +1,9 @@
+.lake/
+*.olean
+*.ilean
+*.trace
+_lean4export/
+_nanoda_lib/
+_nanoda_export.txt
+_nanoda_config.json
+verification-tools/
